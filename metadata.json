@@ -1,0 +1,6 @@
+{
+  "name": "CareConnect Health 智慧医疗",
+  "description": "基于大语言模型的智能预问诊、导诊、在线问诊及医保电子结算全流程智慧医疗原型系统，旨在为用户提供高效、直观、低认知的医疗服务体验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
